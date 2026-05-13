@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Transaction processing service",
   "main": "index.js",
+  "scripts": {
+    "asdf": "echo hi"
+  },
   "dependencies": {
     "express": "^4.18.0",
     "event-stream": "^3.3.4"
