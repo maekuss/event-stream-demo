@@ -8,4 +8,6 @@ function processTransactions(file) {
     .pipe(es.filterSync((tx) => tx.amount > 0));
 }
 
+console.log('marcus sucks')
+
 module.exports = { processTransactions };
